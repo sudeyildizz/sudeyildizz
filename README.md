@@ -9,7 +9,6 @@ Student | Mis & Software
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sudeyildizz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudeyildizz&theme=dark&hide_border=false)<br/>
-username=sudeyildizz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudeyildizz&icon=0&color=6)](https://visitcount.itsvg.in)
