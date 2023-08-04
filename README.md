@@ -1,6 +1,5 @@
 - # 💫 About Me:
-🔭 I’m currently working on software<br>👯 I’m looking to collaborate on software development<br>🌱 I’m currently learning mis & software<br><br>
-
+Student | Mis & Software
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sudeyildiz) 
